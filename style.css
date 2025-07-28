@@ -59,7 +59,7 @@ header > nav > a{
     background-color: var(--cor5);
     color:white;
     text-decoration: none;
-    padding: 3px 8px;  
+    padding: 2px 8px;  
     border-radius: 5px;
 }
 header >nav>a:hover{
